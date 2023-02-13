@@ -5,6 +5,9 @@
 - 💞️ I’m looking to collaborate on in a game called man3om strong
 - 📫 How to reach me you can send on my mail mourra810@gmail.com
 
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/mourra950)](https://badges.pufler.dev) -->
+<img src="https://komarev.com/ghpvc/?username=mourra950&label=Profile%20views&color=0e75b6&style=flat" alt="mourra950" />
+
 <!---
 mourra950/mourra950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
