@@ -50,7 +50,6 @@ I am third-year Computer Engineering Student at Ain shams University computer gr
 
 <a href="http://www.github.com/mourra950"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mourra950&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!---
-mourra950/mourra950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/mourra950)](https://badges.pufler.dev) -->
+<img src="https://komarev.com/ghpvc/?username=mourra950&label=Profile%20views&color=0e75b6&style=flat" alt="mourra950" />
