@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game , Web and Designer
 -----------------------
 
-I am third-year Computer Engineering Student at Ain shams University computer graphics major. From an early age, I fell in love with video games and SFX effects in animations and movies. So I decided to embark on my odyssey and started learning everything hoping that it will help me to achieve my dream one day which is creating my own game. Currently learning Threejs and React-fiber to create 3D web experiences.
+I am Senior 2 Computer Engineering Student at Ain shams University computer graphics major. Currently contributing on threejs while developing an automated machine learning workflow that can be integrated to Carla Simulator with Siemens EDA
 
 * 🌍  I'm based in Egypt,Cairo
 * 🖥️  See my portfolio at [The amazing portfolio](http://mourra950.github.io/Portofolio/)
