@@ -7,7 +7,7 @@ Game , Web and Designer
 I am Senior 2 Computer Engineering Student at Ain shams University computer graphics major. Currently contributing on threejs while developing an automated machine learning workflow that can be integrated to Carla Simulator with Siemens EDA
 
 * 🌍  I'm based in Egypt,Cairo
-* 🖥️  See my portfolio at [The amazing portfolio](http://mourra950.github.io/Portofolio/)
+* 🖥️  See my portfolio at [The Awsome Portfolio](http://mourra950.github.io/Portofolio/)
 * ✉️  You can contact me at [mourra24@gmail.com](mailto:mourra24@gmail.com)
 * 🧠  I'm learning Threejs and React/React-fiber
 * 🤝  I'm open to collaborating on any game or animation project
